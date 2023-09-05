@@ -1,0 +1,2 @@
+# An (unofficial) implementation of aspect-level sentiment analysis
+An implementation of [A novel network with multiple attention mechanisms for aspect-level sentiment analysis](https://www.sciencedirect.com/science/article/abs/pii/S0950705121004585) in PyTorch.
